@@ -1,0 +1,19 @@
+body{
+  background-color: lightgray;
+}
+
+h1,h3{
+  text-align: center;
+}
+
+input{
+  display: block;
+  margin:  0 auto;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  {
